@@ -31,7 +31,7 @@ A rigorous, industry-aligned program spanning 25 modules across the complete ana
 
 ---
 
-## 🛠️ Technical Skills Demonstrated
+## Professional Skills & Competencies
 
 ### Tools & Platforms
 
