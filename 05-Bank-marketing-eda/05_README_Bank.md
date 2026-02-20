@@ -120,19 +120,18 @@ These derived metrics underpin the 3-tier scoring model and directly mirror the 
 | **Cold** | Value Score < 3, prior failures | 5–8% | 10% (test messaging only) |
 
 **Projected outcome:** 78% improvement in campaign ROI + 21% more conversions with 29% fewer contacts
-
 ---
 
 ## 📁 Files in This Folder
 
-
+```
 05-bank-marketing-eda/
 ├── README.md
 ├── analysis/
 │   └── bank-marketing.xlsx    ← Full EDA workbook (3 analysis sheets)
+```
 
 ---
-
 ## 🎓 Skills Demonstrated
 
 `Exploratory Data Analysis` · `Statistical Analysis` · `Inferential Statistics` · `Normal Distribution` · `CLT` · `Confidence Intervals` · `Hypothesis Testing` · `Univariate & Bivariate Analysis` · `Correlation` · `Derived Metrics` · `Feature Engineering` · `Customer Segmentation` · `Campaign Optimisation` · `ROI Analysis` · `Financial Services Analytics` · `Excel Advanced Analytics`
