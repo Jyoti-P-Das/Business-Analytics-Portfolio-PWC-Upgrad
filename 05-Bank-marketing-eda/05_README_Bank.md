@@ -125,12 +125,11 @@ These derived metrics underpin the 3-tier scoring model and directly mirror the 
 
 ## 📁 Files in This Folder
 
-```
+
 05-bank-marketing-eda/
 ├── README.md
 ├── analysis/
 │   └── bank-marketing.xlsx    ← Full EDA workbook (3 analysis sheets)
-
 
 ---
 
