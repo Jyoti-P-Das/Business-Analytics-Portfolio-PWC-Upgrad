@@ -35,7 +35,7 @@ TechnoServe's leadership needed to understand:
 | Business from Client Last Year | Flag for existing vs new client relationship |
 | Opportunity Status | Target variable — Won / Lost |
 
-> Dataset is an upGrad educational resource. Your Excel analysis in `/analysis` and executive PDF in `/presentation` contain the full work.
+
 
 ---
 
