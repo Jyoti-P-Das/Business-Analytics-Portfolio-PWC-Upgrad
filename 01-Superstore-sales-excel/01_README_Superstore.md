@@ -77,7 +77,7 @@ The retail management team needed clarity on:
 ├── data/
 │   └── superstore_sales.csv          ← Original dataset 
 └── solution/
-    └── [Your_Superstore_Analysis.xlsx] ← Full Excel analysis
+    └── [superstore_sales_solution.xlsx] ← Full Excel analysis
 ```
 
 ---
