@@ -40,8 +40,7 @@ The bank's marketing team ran phone-based campaigns to sell term deposit product
 | **Historical Campaign Data** | Days Since Last Contact, Number of Prior Contacts, Previous Campaign Outcome |
 | **Target** | Term Deposit Subscribed — Yes / No |
 
-> UCI Bank Marketing Dataset is freely available at: [archive.ics.uci.edu](https://archive.ics.uci.edu/dataset/222/bank+marketing). Your Excel workbook in `/analysis` and presentation in `/presentation` contain the full analysis.
-
+> UCI Bank Marketing Dataset is freely available at: [archive.ics.uci.edu](https://archive.ics.uci.edu/dataset/222/bank+marketing)
 ---
 
 ## 🔍 Analysis Performed
