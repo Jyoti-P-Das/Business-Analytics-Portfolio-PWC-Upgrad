@@ -40,8 +40,6 @@ RSVP's leadership needed answers to:
 | `role_mapping` | Maps movies to cast members with their role category |
 | `names` | Person details: directors, actors, and actresses |
 
-> Dataset is an upGrad educational resource. Your SQL file in `/queries` contains all queries with inline comments; `/results` contains the executive summary.
-
 ---
 
 ## 🔍 Analysis Performed
@@ -108,7 +106,7 @@ The analysis was structured into 4 segments, each progressively deeper in query 
 ├── data/
 │   └── IMDB_dataset.sql              ← Database schema + data (MySQL import file)
 ├── queries/
-   └── RSVP_Movies_Analysis.sql     ← All SQL queries — 4 segments, 20+ queries with comments
+   └── IMDB_question.sql    ← All SQL queries — 4 segments, 20+ queries with comments
 ```
 
 ---
