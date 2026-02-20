@@ -30,7 +30,7 @@ The retail management team needed clarity on:
 **Scope:** Canadian retail chain across multiple regions and provinces  
 **Key Fields:** Order ID, Customer Segment, Region, Province, Category, Sub-Category, Sales, Profit, Quantity, Discount
 
-> Dataset is publicly available. Your solution Excel file in `/solution` contains the complete analysis built on top of this dataset.
+
 
 ---
 
