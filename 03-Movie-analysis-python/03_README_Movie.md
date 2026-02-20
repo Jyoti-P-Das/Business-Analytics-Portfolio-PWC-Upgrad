@@ -30,7 +30,6 @@ A content production company wanted answers to:
 **Size:** 5,000+ movies  
 **Key Fields:** Title, Genre(s), Director, Lead Actor(s), Release Year, Production Budget, Worldwide Revenue, IMDb Score, Vote Count, Language, Country, Runtime
 
-> Dataset is a publicly available educational resource. Your Jupyter Notebook in `/notebooks` contains all data cleaning steps, analysis, and visualisations with inline explanations.
 
 ---
 
@@ -96,7 +95,7 @@ A content production company wanted answers to:
 03-movie-analysis-python/
 ├── README.md
 └── notebooks/
-    └── Movie_Assignment_YourName.ipynb ← Full EDA Jupyter Notebook
+    └── Movie_Assignment_JYOTI_PRAKASH_DAS.ipynb ← Full EDA Jupyter Notebook
 ```
 
 ---
